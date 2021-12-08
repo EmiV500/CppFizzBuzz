@@ -25,6 +25,7 @@ int main() {
         if (num % 3 != 0 && num % 5 != 0) {
             std::cout << num;
         }
+        
         std::cout << "\n";
     }
 }
