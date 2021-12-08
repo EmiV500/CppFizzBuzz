@@ -13,7 +13,7 @@ it will print "FizzBuzz" to the console.
 int main() {
     // Loops through numbers 1 - 100
     for(int num = 1; num <= 100; num++) {
-        // Checks if current number is divisible by 3 or/and 5 and prints out the corrisponding response
+        // Checks if current number is divisible by 3 or/and 5 and prints out the corresponding response
         if (num % 3 == 0) {
             std::cout << "Fizz";
         }
